@@ -260,6 +260,11 @@ You should always start by looking for solutions on your own. It's how you learn
 There are a few places where you can ask for help.
 
 
+**RMS!**
+
+First, there is us, RMS. We are paid to support you, so you should not hesitate to contact us when you need help. More specifically within RMS, the people that should be able to help are Sam, Shiphar, Nuru or Ric, as they are all using R extensively in their work. But you can also simply contact the person that you know. Maybe it's Carlos if you're in the Andes, and they will find the best person to answer the question. You can find our email addresses on our Stats4SD's team page: https://stats4sd.org/team.
+
+
 **R-help**
 
 The more or less *official* place to ask for help is the R-help mailing list. You send your question to `r-help@r-project.org` and some people from the R community will likely respond to you within a day or two, and sometimes just a couple of hours, depending on the question. You should subscribe to the mailing list <a href="https://stat.ethz.ch/mailman/listinfo/r-help" target="_blank">here</a> though. Otherwise you'll have to wait the approval of moderators.
